@@ -34,16 +34,17 @@ Data Structures • Algorithms • Object-Oriented Programming
 
 ---
 
-## 📊 Coding Profiles
+## 🏆 Coding Profiles
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/kajallmishra_?theme=dark&ext=heatmap" />
+  <a href="https://leetcode.com/u/kajallmishra_/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kajallmishra_&theme=tokyonight" />
+  <img src="https://leetcard.jacoblin.cool/kajallmishra_?theme=dark&font=baloo&ext=heatmap" />
 </p>
-
 ---
 
 ## 🚀 Current Focus
