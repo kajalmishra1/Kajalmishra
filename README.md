@@ -35,14 +35,13 @@ Data Structures • Algorithms • Object-Oriented Programming
 ---
 
 ## 📊 Coding Profiles
-## 📊 Coding Profiles
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/kajallmishra_?theme=dark&ext=heatmap" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kajallmishra_?&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kajallmishra_&theme=tokyonight" />
 </p>
 
 ---
@@ -63,8 +62,6 @@ Data Structures • Algorithms • Object-Oriented Programming
 - 🧮 DSA Problem Solving (Java / Python)  
 
 ---
-
-## 📬 Connect With Me
 
 ## 📬 Connect With Me
 
