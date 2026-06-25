@@ -34,11 +34,15 @@ Data Structures • Algorithms • Object-Oriented Programming
 
 ---
 
-## 📊 DSA Progress 
+## 📊 Coding Profiles
 ## 📊 Coding Profiles
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/kajallmishra_?theme=dark&ext=heatmap" width="60%"/>
+  <img src="https://leetcard.jacoblin.cool/kajallmishra_?theme=dark&ext=heatmap" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kajallmishra_?&theme=tokyonight" />
 </p>
 
 ---
@@ -62,10 +66,20 @@ Data Structures • Algorithms • Object-Oriented Programming
 
 ## 📬 Connect With Me
 
+## 📬 Connect With Me
+
 <p align="left">
-  <a href="www.linkedin.com/in/kajal-mishra1">LinkedIn</a> •
-  <a href="mailto:kajalmishra1676@gmail.com">Email</a> •
-  <a href="https://github.com/kajalmishra1">GitHub</a>
+  <a href="https://www.linkedin.com/in/kajal-mishra1" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="mailto:kajalmishra1676@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Send%20Mail-red?style=for-the-badge&logo=gmail" />
+  </a>
+
+  <a href="https://github.com/kajalmishra1" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
