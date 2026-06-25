@@ -34,11 +34,11 @@ Data Structures • Algorithms • Object-Oriented Programming
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 DSA Progress 
+## 📊 Coding Profiles
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kajalmishra1&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajalmishra1&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://leetcard.jacoblin.cool/kajallmishra_?theme=dark&ext=heatmap" width="60%"/>
 </p>
 
 ---
